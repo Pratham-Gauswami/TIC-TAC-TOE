@@ -1,8 +1,3 @@
-# TIC-TAC-TOE
-Certainly! Below is a sample README file for your TIC-TAC-TOE game:
-
----
-
 # TIC-TAC-TOE Game
 
 Welcome to TIC-TAC-TOE, a classic two-player game implemented in C!
